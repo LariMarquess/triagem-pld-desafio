@@ -1,0 +1,11 @@
+cliente_id,violou_regra_1,violou_regra_2,qtd_regras_violadas,volume_total_brl
+CLI-029,True,False,1,191385.766
+CLI-023,False,True,1,148535.016
+CLI-017,True,False,1,121391.37
+CLI-030,False,True,1,117780.886
+CLI-002,True,False,1,107965.38
+CLI-024,False,True,1,104854.93400000002
+CLI-003,True,False,1,102241.09
+CLI-028,False,True,1,88750.8
+CLI-013,False,True,1,81730.99
+CLI-014,False,True,1,80629.99

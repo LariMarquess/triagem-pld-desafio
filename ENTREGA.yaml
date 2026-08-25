@@ -4,3 +4,7 @@ nivel_1:
   validacao_regras: {status: completo, onde: "nivel_1/nivel_1.ipynb, secao 8"}
   saida_estruturada: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 12-17"}
   comparacao_prompts: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 14-17"}
+
+nivel_2:
+  parte_a_regras_em_escala: {status: completo, onde: "nivel_2/tools.py"}
+  parte_b_agente_e_confronto: {status: nao_feito, onde: "docs/DECISOES.md"}
