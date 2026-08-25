@@ -1,0 +1,6 @@
+nivel_1:
+  limpeza_dados: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 2-3"}
+  regras_pandas: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 6-7"}
+  validacao_regras: {status: completo, onde: "nivel_1/nivel_1.ipynb, secao 8"}
+  saida_estruturada: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 12-17"}
+  comparacao_prompts: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 14-17"}
