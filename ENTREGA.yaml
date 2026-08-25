@@ -1,3 +1,8 @@
+candidato: Larissa Marques Sousa
+modelo_usado: gemini-3.6-flash
+provedor: google-ai-studio
+horas_dedicadas: 7
+
 nivel_1:
   limpeza_dados: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 2-3"}
   regras_pandas: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 6-7"}
@@ -6,5 +11,13 @@ nivel_1:
   comparacao_prompts: {status: completo, onde: "nivel_1/nivel_1.ipynb, secoes 14-17"}
 
 nivel_2:
-  parte_a_regras_em_escala: {status: completo, onde: "nivel_2/tools.py"}
-  parte_b_agente_e_confronto: {status: nao_feito, onde: "docs/DECISOES.md"}
+  regras_em_escala: {status: completo, onde: "nivel_2/tools.py, outputs/top_10_clientes_nivel2.csv"}
+  ferramentas: {status: nao_feito, plano: "docs/DECISOES.md, secao 4.1"}
+  agente: {status: nao_feito, plano: "docs/DECISOES.md, secao 4.2"}
+  lote: {status: nao_feito, plano: "docs/DECISOES.md, secao 4.3"}
+  confronto: {status: nao_feito, plano: "docs/DECISOES.md, secao 4.4"}
+
+nivel_3:
+  trilha_escolhida: "nao escolhida - sem tempo no prazo"
+  status: nao_feito
+  plano: "docs/DECISOES.md, secao 5"
