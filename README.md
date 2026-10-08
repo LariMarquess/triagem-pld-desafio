@@ -1,4 +1,4 @@
-# Triagem PLD — Desafio Técnico de Estágio em Engenharia de IA
+#  Engenharia de IA
 
 Pipeline de triagem para Prevenção à Lavagem de Dinheiro (PLD) de um banco fictício, combinando **regras determinísticas em pandas** (cálculo) com um **LLM** (Gemini) para interpretação qualitativa e geração de pareceres.
 
